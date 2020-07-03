@@ -1,6 +1,8 @@
 # Nicepay-go 
 
-[![Build Status](https://travis-ci.org/yisiper/nicepay-go.png)](https://travis-ci.org/yisiper/nicepay-go)    
+[![Build Status](https://travis-ci.com/yisiper/nicepay-go.svg?branch=master)](https://travis-ci.org/yisiper/nicepay-go)
+[![codecov](https://codecov.io/gh/yisiper/nicepay-go/branch/master/graph/badge.svg)](https://codecov.io/gh/yisiper/nicepay-go)
+
 Unofficial Nicepay library for golang
 
 ### Installation
